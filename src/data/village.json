@@ -1,0 +1,101 @@
+{
+  "village": "Lakhlgoan",
+  "marathiName": "ग्रामपंचायत लाखलगाव",
+  "type": "Gram Panchayat",
+  "state": "Maharashtra",
+  "country": "India",
+  "population": 4860,
+  "households": 1145,
+  "totalWards": 6,
+  "literacy": "78.4%",
+  "pin": "Demo PIN (422XXX)",
+  "taluka": "Demo Taluka",
+  "district": "Demo District",
+  "areaSqKm": "14.8 sq. km",
+  "gramPanchayatCode": "GP-MH-DEMO-0412",
+  "establishedYear": "1962 (Demo Record)",
+  "officials": [
+    {
+      "role": "Sarpanch",
+      "name": "Mrs. Sunita Patil",
+      "contact": "02550-24XXXX (Demo)",
+      "officeHours": "Mon – Sat, 10:30 AM – 04:30 PM"
+    },
+    {
+      "role": "Deputy Sarpanch",
+      "name": "Mr. Mahesh Jadhav",
+      "contact": "02550-24XXXX (Demo)",
+      "officeHours": "Mon – Fri, 11:00 AM – 04:00 PM"
+    },
+    {
+      "role": "Gram Sevak",
+      "name": "Mr. Rahul Shinde",
+      "contact": "02550-24XXXX (Demo)",
+      "officeHours": "Mon – Sat, 10:00 AM – 05:30 PM"
+    },
+    {
+      "role": "Account & Record Clerk",
+      "name": "Ms. Priya Pawar",
+      "contact": "02550-24XXXX (Demo)",
+      "officeHours": "Mon – Sat, 10:00 AM – 05:30 PM"
+    }
+  ],
+  "wards": [
+    {
+      "ward": "Ward 1",
+      "households": 210,
+      "population": 890,
+      "representative": "Mr. Ashok Kadam (Demo)",
+      "keyLandmark": "Maruti Mandir & Main Approach Road"
+    },
+    {
+      "ward": "Ward 2",
+      "households": 195,
+      "population": 825,
+      "representative": "Mrs. Sunita Patil (Demo)",
+      "keyLandmark": "Gram Panchayat Office & ZP Primary School"
+    },
+    {
+      "ward": "Ward 3",
+      "households": 188,
+      "population": 795,
+      "representative": "Mr. Mahesh Jadhav (Demo)",
+      "keyLandmark": "Overhead Water Tank & PHC Sub-Centre"
+    },
+    {
+      "ward": "Ward 4",
+      "households": 176,
+      "population": 740,
+      "representative": "Mrs. Rekha More (Demo)",
+      "keyLandmark": "Bazaar Peth & Community Hall"
+    },
+    {
+      "ward": "Ward 5",
+      "households": 192,
+      "population": 815,
+      "representative": "Mr. Ganesh Deshmukh (Demo)",
+      "keyLandmark": "Anganwadi Centre No. 2 & Dairy Co-op"
+    },
+    {
+      "ward": "Ward 6",
+      "households": 184,
+      "population": 795,
+      "representative": "Mrs. Savita Gaikwad (Demo)",
+      "keyLandmark": "Smruti Van Plantation & Agricultural Canal"
+    }
+  ],
+  "financialSummary": {
+    "financialYear": "2026–27",
+    "totalGrants": 3250000,
+    "totalExpenditure": 2135000,
+    "availableBalance": 1115000,
+    "categoryBreakdown": [
+      { "category": "Water Supply", "allocated": 850000, "spent": 620000 },
+      { "category": "Road Maintenance", "allocated": 750000, "spent": 540000 },
+      { "category": "Street Lighting", "allocated": 380000, "spent": 245000 },
+      { "category": "Sanitation", "allocated": 470000, "spent": 310000 },
+      { "category": "Education", "allocated": 350000, "spent": 215000 },
+      { "category": "Public Infrastructure", "allocated": 450000, "spent": 205000 }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --gp-primary: #174C3C;
+    --gp-green: #236A52;
+    --gp-sage: #EEF4F0;
+    --gp-bg: #F7F8F5;
+    --gp-surface: #FFFFFF;
+    --gp-text: #1E2925;
+    --gp-muted: #69766F;
+    --gp-border: #DDE5E0;
+    --gp-amber: #D99528;
+    --gp-danger: #C74A4A;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: #F7F8F5;
+    color: #1E2925;
+    overflow-x: hidden;
+  }
+
+  .font-marathi {
+    font-family: 'Noto Sans Devanagari', 'Plus Jakarta Sans', sans-serif;
+  }
+
+  .font-serif-display {
+    font-family: 'Instrument Serif', Georgia, serif;
+  }
+
+  .font-mono-num {
+    font-family: 'IBM Plex Mono', monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

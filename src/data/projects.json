@@ -1,0 +1,125 @@
+[
+  {
+    "id": "PRJ001",
+    "name": "CC Road Construction – Ward 2",
+    "ward": "Ward 2",
+    "scheme": "15th Finance Commission",
+    "contractor": "Sahyadri Civil Contractors",
+    "startDate": "2026-05-10",
+    "expectedCompletion": "2026-10-30",
+    "budget": 575000,
+    "spent": 410000,
+    "progress": 72,
+    "status": "In Progress",
+    "description": "Construction of 280-meter M-30 grade Cement Concrete internal village road with side shoulder interlocking blocks and roadside storm drain channel in Ward 2.",
+    "documents": [
+      { "title": "Technical Sanction & Estimate – Ward 2 CC Road", "file": "/documents/village-development-plan.pdf" },
+      { "title": "Work Order & Measurement Book Extract", "file": "/documents/annual-budget-2026-27.pdf" }
+    ],
+    "photos": [
+      { "title": "Concrete Laying & Finishing – Ward 2", "url": "/images/road-development.jpg", "caption": "Completed 200m stretch of M-30 CC road near Ward 2 Maruti Mandir lane." },
+      { "title": "Sub-base Compaction Inspection", "url": "/images/village-road.jpg", "caption": "Gram Sevak and Junior Engineer inspecting road thickness." }
+    ]
+  },
+  {
+    "id": "PRJ002",
+    "name": "Drinking Water Pipeline Extension",
+    "ward": "Ward 3 & Ward 5",
+    "scheme": "Jal Jeevan Mission",
+    "contractor": "Sai Water Solutions & Infra",
+    "startDate": "2026-01-15",
+    "expectedCompletion": "2026-08-10",
+    "budget": 820000,
+    "spent": 812500,
+    "progress": 100,
+    "status": "Completed",
+    "description": "Extension of 110mm HDPE distribution main line and 142 individual Functional Household Tap Connections (FHTC) with pressure testing and elevated tank integration.",
+    "documents": [
+      { "title": "JJM Completion Certificate & Resolution No. 14", "file": "/documents/water-supply-resolution-2026.pdf" },
+      { "title": "Hydrostatic Pressure Test Report", "file": "/documents/annual-budget-2026-27.pdf" }
+    ],
+    "photos": [
+      { "title": "Overhead ESR Water Tank & Main Valve Chamber", "url": "/images/water-project.jpg", "caption": "Commissioned distribution chamber supplying Ward 3 and Ward 5 households." }
+    ]
+  },
+  {
+    "id": "PRJ003",
+    "name": "LED Streetlight Installation",
+    "ward": "All Wards (1 to 6)",
+    "scheme": "Gram Nidhi & 15th Finance Commission",
+    "contractor": "Shree Ganesh Electricals",
+    "startDate": "2026-07-01",
+    "expectedCompletion": "2026-11-15",
+    "budget": 310000,
+    "spent": 139500,
+    "progress": 45,
+    "status": "In Progress",
+    "description": "Replacement of conventional sodium/tube street fixtures with energy-efficient 45W IP66 LED streetlights and automated astronomical timer panels across 85 poles.",
+    "documents": [
+      { "title": "Electrical Material Procurement Bill & Warranty", "file": "/documents/streetlight-maintenance-bill.pdf" }
+    ],
+    "photos": [
+      { "title": "Ward 1 Main Road LED Poles", "url": "/images/village-road.jpg", "caption": "Newly installed LED fixtures along the main approach road." }
+    ]
+  },
+  {
+    "id": "PRJ004",
+    "name": "Village Drainage Improvement",
+    "ward": "Ward 1 & Ward 4",
+    "scheme": "Swachh Bharat Mission (Grameen) Phase II",
+    "contractor": "Deshmukh Precast Concrete Works",
+    "startDate": "2026-08-20",
+    "expectedCompletion": "2027-01-20",
+    "budget": 640000,
+    "spent": 160000,
+    "progress": 25,
+    "status": "Planning",
+    "description": "Construction of covered RCC U-drainage channel with silt-trap chambers and greywater soak-pit integration to prevent monsoon waterlogging in Ward 1 and Ward 4.",
+    "documents": [
+      { "title": "Drainage Line Survey & Sanction Order", "file": "/documents/sanitation-work-order.pdf" }
+    ],
+    "photos": [
+      { "title": "Alignment Marking & Precast Slab Delivery", "url": "/images/road-development.jpg", "caption": "Initial site leveling and precast RCC slab inspection." }
+    ]
+  },
+  {
+    "id": "PRJ005",
+    "name": "ZP Primary School Smart Classroom & Sanitation Block",
+    "ward": "Ward 2",
+    "scheme": "District Planning Committee (DPC) Grant",
+    "contractor": "Omkar Construction",
+    "startDate": "2026-03-05",
+    "expectedCompletion": "2026-07-30",
+    "budget": 450000,
+    "spent": 445000,
+    "progress": 100,
+    "status": "Completed",
+    "description": "Renovation of Zilla Parishad Primary School boys and girls sanitation units with running water, roof waterproofing, and digital learning projector installation.",
+    "documents": [
+      { "title": "School Handover Certificate", "file": "/documents/village-development-plan.pdf" }
+    ],
+    "photos": [
+      { "title": "Gram Panchayat & School Courtyard", "url": "/images/gram-panchayat-office.jpg", "caption": "Upgraded civic and educational infrastructure in Ward 2." }
+    ]
+  },
+  {
+    "id": "PRJ006",
+    "name": "Roadside Green Belt & Smruti Van Tree Plantation",
+    "ward": "Ward 6",
+    "scheme": "MGNREGA & Green Maharashtra Drive",
+    "contractor": "Gram Panchayat Department Execution",
+    "startDate": "2026-06-15",
+    "expectedCompletion": "2026-12-31",
+    "budget": 185000,
+    "spent": 115000,
+    "progress": 62,
+    "status": "In Progress",
+    "description": "Plantation of 600 native shade and fruit saplings (Neem, Peepal, Karanj, Tamarind, Jamun) with protective iron tree-guards and drip watering arrangement.",
+    "documents": [
+      { "title": "Nursery Sapling Voucher & Survival Register", "file": "/documents/sanitation-work-order.pdf" }
+    ],
+    "photos": [
+      { "title": "Community Tree Plantation Drive", "url": "/images/tree-plantation.jpg", "caption": "Villagers and Panchayat members planting saplings along Ward 6 boundary." }
+    ]
+  }
+]

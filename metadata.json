@@ -1,0 +1,6 @@
+{
+  "name": "Lakhlgoan Gram Panchayat Digital Records Portal",
+  "description": "Academic prototype of a Digital Records and Citizen Document Portal for Lakhlgoan Gram Panchayat, managing village documents, bills, notices, development works, and meeting records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

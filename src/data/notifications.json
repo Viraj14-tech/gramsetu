@@ -1,0 +1,38 @@
+[
+  {
+    "id": "NTF-01",
+    "title": "New Gram Sabha Notice",
+    "message": "New Gram Sabha notice published for 2 October 2026 at 11:00 AM.",
+    "date": "2 hours ago",
+    "type": "notice",
+    "read": false,
+    "link": "/notices"
+  },
+  {
+    "id": "NTF-02",
+    "title": "Water Supply Advisory",
+    "message": "Water supply maintenance notice added for Overhead ESR Tank.",
+    "date": "1 day ago",
+    "type": "notice",
+    "read": false,
+    "link": "/notices"
+  },
+  {
+    "id": "NTF-03",
+    "title": "Project Progress Updated",
+    "message": "Road development work (Ward 2 CC Road) updated to 72%.",
+    "date": "2 days ago",
+    "type": "project",
+    "read": false,
+    "link": "/projects"
+  },
+  {
+    "id": "NTF-04",
+    "title": "Document Published",
+    "message": "New public document uploaded: Gram Sabha Minutes – August 2026.",
+    "date": "4 days ago",
+    "type": "document",
+    "read": true,
+    "link": "/documents"
+  }
+]

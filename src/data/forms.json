@@ -1,0 +1,101 @@
+[
+  {
+    "id": "FRM-001",
+    "title": "Residence Certificate Application",
+    "category": "Residence",
+    "formCode": "GP-FORM-RES-01",
+    "description": "Standard application form for obtaining Gram Panchayat Rahivasi Dakhla (Residence Certificate) for educational, scholarship, or banking purposes.",
+    "requiredDocs": ["Aadhaar Card Copy", "Ration Card / Voter ID", "Paid House Tax Receipt (Current Year)"],
+    "processingDays": "3 Working Days",
+    "file": "/documents/residence-certificate-form.pdf",
+    "fileSize": "320 KB"
+  },
+  {
+    "id": "FRM-002",
+    "title": "Water Connection Application",
+    "category": "Water Connection",
+    "formCode": "GP-FORM-WAT-02",
+    "description": "Application for new household domestic tap connection (Nal Jodani) or pipe transfer under the Gram Panchayat Water Supply Scheme.",
+    "requiredDocs": ["Namuna No. 8 Property Extract", "No-Dues Tax Receipt", "Plumber Sketch & Aadhaar Copy"],
+    "processingDays": "7 Working Days",
+    "file": "/documents/water-connection-form.pdf",
+    "fileSize": "410 KB"
+  },
+  {
+    "id": "FRM-003",
+    "title": "Property Tax Assessment Form",
+    "category": "Property",
+    "formCode": "GP-FORM-PRP-08",
+    "description": "Application for Namuna No. 8 property entry, mutation (Ferfar), or new house construction assessment in village abadi records.",
+    "requiredDocs": ["Sale Deed / Inheritance Document", "7/12 or Gavthan Map Sketch", "Construction Permission Copy"],
+    "processingDays": "15 Working Days (Monthly Meeting Approval)",
+    "file": "/documents/property-assessment-form.pdf",
+    "fileSize": "540 KB"
+  },
+  {
+    "id": "FRM-004",
+    "title": "NOC Application (No Objection Certificate)",
+    "category": "No Objection",
+    "formCode": "GP-FORM-NOC-04",
+    "description": "General No Objection Certificate request for MSEDCL electricity meter connection, small village business, or solar rooftop installation.",
+    "requiredDocs": ["Aadhaar Card", "Namuna No. 8 Extract", "House Tax & Water Tax Clearance Receipt"],
+    "processingDays": "5 Working Days",
+    "file": "/documents/noc-application-form.pdf",
+    "fileSize": "290 KB"
+  },
+  {
+    "id": "FRM-005",
+    "title": "Birth Registration Request",
+    "category": "Birth Related",
+    "formCode": "GP-FORM-BRT-05",
+    "description": "Statutory Form No. 1 for reporting and obtaining official Birth Certificate extract from the Gram Panchayat Registrar of Births & Deaths.",
+    "requiredDocs": ["Hospital Discharge / PHC Slip", "Parents' Aadhaar Cards", "Marriage / Ration Card Copy"],
+    "processingDays": "5 Working Days",
+    "file": "/documents/birth-registration-form.pdf",
+    "fileSize": "380 KB"
+  },
+  {
+    "id": "FRM-006",
+    "title": "Death Registration Request",
+    "category": "Death Related",
+    "formCode": "GP-FORM-DTH-06",
+    "description": "Statutory Form No. 2 for reporting a death within Gram Panchayat jurisdiction and obtaining official Death Certificate extract.",
+    "requiredDocs": ["Medical Attendant / Cremation Slip", "Deceased Person's Aadhaar Copy", "Applicant ID Proof"],
+    "processingDays": "5 Working Days",
+    "file": "/documents/death-registration-form.pdf",
+    "fileSize": "365 KB"
+  },
+  {
+    "id": "FRM-007",
+    "title": "Tax Exemption / Rebate Application",
+    "category": "Tax",
+    "formCode": "GP-FORM-TAX-07",
+    "description": "Application for statutory House Tax exemption for ex-servicemen families, persons with disabilities, or women self-help group premises.",
+    "requiredDocs": ["Ex-Serviceman / Disability Certificate", "Namuna No. 8 Extract", "Aadhaar Card"],
+    "processingDays": "10 Working Days",
+    "file": "/documents/tax-rebate-form.pdf",
+    "fileSize": "310 KB"
+  },
+  {
+    "id": "FRM-008",
+    "title": "Family Income Verification Recommendation",
+    "category": "Income",
+    "formCode": "GP-FORM-INC-08",
+    "description": "Verification worksheet signed by Gram Sevak/Talathi for submitting family income certificate request at Tehsil Maha-e-Seva Kendra.",
+    "requiredDocs": ["Ration Card Copy", "Aadhaar Card", "7/12 Agricultural Holding Extract"],
+    "processingDays": "3 Working Days",
+    "file": "/documents/income-verification-form.pdf",
+    "fileSize": "275 KB"
+  },
+  {
+    "id": "FRM-009",
+    "title": "PMAY-G / Gharkul Housing Scheme Application",
+    "category": "Government Schemes",
+    "formCode": "GP-FORM-SCH-09",
+    "description": "Citizen application and self-declaration form for inclusion in rural housing and sanitation welfare schemes.",
+    "requiredDocs": ["Aadhaar Card", "Bank Passbook with IFSC", "Job Card (MGNREGA)", "Current House Photograph"],
+    "processingDays": "Subject to Gram Sabha Verification",
+    "file": "/documents/pmay-scheme-application.pdf",
+    "fileSize": "620 KB"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "id": "MTG-2026-08-15",
+    "title": "Independence Day Statutory Gram Sabha",
+    "type": "Gram Sabha",
+    "date": "2026-08-15",
+    "time": "10:30 AM",
+    "venue": "Gram Panchayat Karyalaya Courtyard, Lakhlgoan",
+    "attendance": "184 Citizens (112 Male, 72 Female)",
+    "agendaCount": 7,
+    "agendaItems": [
+      "Reading and confirmation of previous Gram Sabha minutes dated 1 May 2026",
+      "Presentation of Financial Year 2026–27 income & expenditure statement up to July 2026",
+      "Review of physical progress of Ward 2 CC Road and Jal Jeevan Mission pipeline works",
+      "Approval of PMAY-G Phase III priority beneficiary list after social audit",
+      "Sanction for replacement of 85 street lights with energy-saving LED fixtures",
+      "Swachh Bharat Mission plastic waste prohibition and household dustbin distribution",
+      "Open house citizen grievances regarding agricultural approach roads and water pressure"
+    ],
+    "resolutionsCount": 7,
+    "resolutionsSummary": [
+      "Resolution #01: Unanimously confirmed proceedings of Maharashtra Din Gram Sabha.",
+      "Resolution #02: Approved ₹4,10,000 running expenditure for Ward 2 CC Road.",
+      "Resolution #03: Certified 100% completion of Jal Jeevan Mission pipeline extension in Wards 3 & 5.",
+      "Resolution #04: Finalized 18 eligible households for PMAY-G housing grant.",
+      "Resolution #05: Approved 5% rebate on House Tax paid before 15 October 2026."
+    ],
+    "minutesPdf": "/documents/gram-sabha-august-2026.pdf",
+    "status": "Completed"
+  },
+  {
+    "id": "MTG-2026-10-02",
+    "title": "Mahatma Gandhi Jayanti Special Gram Sabha",
+    "type": "Gram Sabha",
+    "date": "2026-10-02",
+    "time": "11:00 AM",
+    "venue": "Gram Panchayat Karyalaya, Lakhlgoan",
+    "attendance": "Expected 200+ Citizens",
+    "agendaCount": 5,
+    "agendaItems": [
+      "Swachhata Hi Seva cleanliness pledge and ODF Plus sustainability review",
+      "Mid-year audit of 15th Finance Commission tied & untied grants",
+      "Review of Ward 1 & Ward 4 underground RCC drainage engineering plan",
+      "Reading of pending Namuna No. 8 property mutation applications",
+      "Discussion on winter drinking water storage and borewell maintenance"
+    ],
+    "resolutionsCount": 0,
+    "resolutionsSummary": [
+      "Meeting scheduled for 2 October 2026 at 11:00 AM."
+    ],
+    "minutesPdf": "/documents/gram-sabha-august-2026.pdf",
+    "status": "Scheduled"
+  },
+  {
+    "id": "MTG-2026-08-05",
+    "title": "August Monthly Panchayat Committee Meeting",
+    "type": "Monthly Panchayat Meeting",
+    "date": "2026-08-05",
+    "time": "02:00 PM",
+    "venue": "Sarpanch Meeting Hall, Lakhlgoan GP",
+    "attendance": "11 / 11 Elected Members Present",
+    "agendaCount": 5,
+    "agendaItems": [
+      "Verification of monthly cash book and bank reconciliation for July 2026",
+      "Scrutiny of vendor bills for street light repairs and waste collection",
+      "Preparation of agenda for 15 August Statutory Gram Sabha",
+      "Review of birth, death, and residence certificate applications processed",
+      "Approval of quotation notice for Ward 1 precast RCC drain covers"
+    ],
+    "resolutionsCount": 5,
+    "resolutionsSummary": [
+      "Approved disbursement of ₹42,500 to Shree Ganesh Electricals (Bill BL-2026-041).",
+      "Approved disbursement of ₹56,000 to Green India Services for July sanitation.",
+      "Directed Account Clerk to issue House Tax reminder notices across all 6 wards."
+    ],
+    "minutesPdf": "/documents/annual-budget-2026-27.pdf",
+    "status": "Completed"
+  },
+  {
+    "id": "MTG-2026-09-07",
+    "title": "September Monthly Panchayat Committee Meeting",
+    "type": "Monthly Panchayat Meeting",
+    "date": "2026-09-07",
+    "time": "02:30 PM",
+    "venue": "Sarpanch Meeting Hall, Lakhlgoan GP",
+    "attendance": "10 / 11 Elected Members Present",
+    "agendaCount": 4,
+    "agendaItems": [
+      "Review of monsoon road patch repairs and nalla culvert desilting in Ward 6",
+      "Sanction of overhead water tank chlorination and valve overhaul schedule",
+      "Planning for Navratri & Gandhi Jayanti village cleanliness drive",
+      "Approval of 14 new household tap connections in Ward 5 extension"
+    ],
+    "resolutionsCount": 4,
+    "resolutionsSummary": [
+      "Authorized emergency culvert desilting in Ward 6.",
+      "Scheduled Overhead ESR Tank cleaning for 29 September 2026."
+    ],
+    "minutesPdf": "/documents/village-development-plan.pdf",
+    "status": "Completed"
+  },
+  {
+    "id": "MTG-2026-07-28",
+    "title": "Special Water Supply & Sanitation Samiti Meeting",
+    "type": "Special Meeting",
+    "date": "2026-07-28",
+    "time": "11:30 AM",
+    "venue": "Gram Panchayat Karyalaya, Lakhlgoan",
+    "attendance": "9 / 9 Committee Members & Junior Engineer",
+    "agendaCount": 4,
+    "agendaItems": [
+      "Joint inspection report of Jal Jeevan Mission pipeline pressure testing",
+      "Monsoon water quality biological and TCL chlorine sample verification with PHC",
+      "Revision of daily valve operator schedule for equitable morning water supply",
+      "Procurement of bleaching powder and alum stock for quarter II"
+    ],
+    "resolutionsCount": 3,
+    "resolutionsSummary": [
+      "Certified water quality sample results as potable and safe across all 6 wards.",
+      "Approved Sai Water Solutions maintenance estimate of ₹68,400 for standby pump."
+    ],
+    "minutesPdf": "/documents/water-supply-resolution-2026.pdf",
+    "status": "Completed"
+  },
+  {
+    "id": "MTG-2026-05-01",
+    "title": "Maharashtra Din Statutory Gram Sabha",
+    "type": "Gram Sabha",
+    "date": "2026-05-01",
+    "time": "09:30 AM",
+    "venue": "Gram Panchayat Karyalaya Courtyard, Lakhlgoan",
+    "attendance": "196 Citizens (118 Male, 78 Female)",
+    "agendaCount": 6,
+    "agendaItems": [
+      "Presentation and final ratification of GPDP Annual Plan 2026–27",
+      "Approval of Annual Budget Estimate 2026–27 totaling ₹32,50,000 in grants",
+      "Selection of road and water priority works under 15th Finance Commission",
+      "Pre-monsoon tree plantation target of 600 saplings in Ward 6",
+      "Review of ZP Primary School smart classroom and toilet renovation work",
+      "Social welfare pension scheme (Sanjay Gandhi Niradhar Yojana) camp announcement"
+    ],
+    "resolutionsCount": 6,
+    "resolutionsSummary": [
+      "Unanimously ratified GPDP 2026–27 and Annual Budget.",
+      "Sanctioned CC Road Construction in Ward 2 with ₹5,75,000 outlay."
+    ],
+    "minutesPdf": "/documents/village-development-plan.pdf",
+    "status": "Completed"
+  }
+]

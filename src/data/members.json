@@ -1,0 +1,134 @@
+[
+  {
+    "id": "LGP001",
+    "name": "Ramesh Patil",
+    "ward": "Ward 1",
+    "mobile": "98XXXXXX21",
+    "houseNo": "112",
+    "memberSince": "2024",
+    "status": "Active",
+    "familyMembersCount": 5,
+    "taxStatus": "Paid"
+  },
+  {
+    "id": "LGP002",
+    "name": "Sunita Shinde",
+    "ward": "Ward 2",
+    "mobile": "97XXXXXX48",
+    "houseNo": "87",
+    "memberSince": "2023",
+    "status": "Active",
+    "familyMembersCount": 4,
+    "taxStatus": "Paid"
+  },
+  {
+    "id": "LGP003",
+    "name": "Dattatray Kadam",
+    "ward": "Ward 3",
+    "mobile": "94XXXXXX19",
+    "houseNo": "204",
+    "memberSince": "2022",
+    "status": "Active",
+    "familyMembersCount": 6,
+    "taxStatus": "Paid"
+  },
+  {
+    "id": "LGP004",
+    "name": "Kavita Jadhav",
+    "ward": "Ward 1",
+    "mobile": "99XXXXXX63",
+    "houseNo": "45",
+    "memberSince": "2024",
+    "status": "Active",
+    "familyMembersCount": 3,
+    "taxStatus": "Due"
+  },
+  {
+    "id": "LGP005",
+    "name": "Balasaheb Deshmukh",
+    "ward": "Ward 4",
+    "mobile": "98XXXXXX77",
+    "houseNo": "310",
+    "memberSince": "2021",
+    "status": "Active",
+    "familyMembersCount": 7,
+    "taxStatus": "Paid"
+  },
+  {
+    "id": "LGP006",
+    "name": "Meenakshi Pawar",
+    "ward": "Ward 5",
+    "mobile": "96XXXXXX05",
+    "houseNo": "158",
+    "memberSince": "2023",
+    "status": "Active",
+    "familyMembersCount": 4,
+    "taxStatus": "Paid"
+  },
+  {
+    "id": "LGP007",
+    "name": "Santosh Gaikwad",
+    "ward": "Ward 6",
+    "mobile": "95XXXXXX82",
+    "houseNo": "419",
+    "memberSince": "2022",
+    "status": "Active",
+    "familyMembersCount": 5,
+    "taxStatus": "Due"
+  },
+  {
+    "id": "LGP008",
+    "name": "Vaishali More",
+    "ward": "Ward 2",
+    "mobile": "98XXXXXX34",
+    "houseNo": "92",
+    "memberSince": "2025",
+    "status": "Active",
+    "familyMembersCount": 4,
+    "taxStatus": "Paid"
+  },
+  {
+    "id": "LGP009",
+    "name": "Prakash Bhosale",
+    "ward": "Ward 3",
+    "mobile": "91XXXXXX56",
+    "houseNo": "228",
+    "memberSince": "2021",
+    "status": "Inactive",
+    "familyMembersCount": 2,
+    "taxStatus": "Paid"
+  },
+  {
+    "id": "LGP010",
+    "name": "Nanda Sonawane",
+    "ward": "Ward 5",
+    "mobile": "97XXXXXX90",
+    "houseNo": "174",
+    "memberSince": "2024",
+    "status": "Active",
+    "familyMembersCount": 5,
+    "taxStatus": "Paid"
+  },
+  {
+    "id": "LGP011",
+    "name": "Vikas Chavan",
+    "ward": "Ward 4",
+    "mobile": "93XXXXXX12",
+    "houseNo": "295",
+    "memberSince": "2023",
+    "status": "Active",
+    "familyMembersCount": 6,
+    "taxStatus": "Due"
+  },
+  {
+    "id": "LGP012",
+    "name": "Archana Nikam",
+    "ward": "Ward 6",
+    "mobile": "98XXXXXX41",
+    "houseNo": "402",
+    "memberSince": "2025",
+    "status": "Active",
+    "familyMembersCount": 4,
+    "taxStatus": "Paid"
+  }
+]

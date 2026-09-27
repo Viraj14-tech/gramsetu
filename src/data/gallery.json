@@ -1,0 +1,152 @@
+[
+  {
+    "id": "ALB-01",
+    "title": "Independence Day 2026",
+    "category": "Village Events",
+    "date": "2026-08-15",
+    "coverUrl": "/images/gram-panchayat-office.jpg",
+    "description": "79th Independence Day flag hoisting ceremony at Lakhlgoan Gram Panchayat Karyalaya attended by Sarpanch, school children, and villagers.",
+    "photos": [
+      {
+        "id": "PHT-101",
+        "title": "Gram Panchayat Karyalaya Morning Ceremony",
+        "caption": "Decorated Gram Panchayat Lakhlgoan building ready for the morning flag hoisting ceremony.",
+        "date": "15 Aug 2026",
+        "url": "/images/gram-panchayat-office.jpg",
+        "ward": "Ward 2"
+      },
+      {
+        "id": "PHT-102",
+        "title": "Independence Day Gram Sabha Gathering",
+        "caption": "Villagers assembled after flag hoisting for the statutory Gram Sabha session.",
+        "date": "15 Aug 2026",
+        "url": "/images/gram-sabha.jpg",
+        "ward": "Ward 2"
+      }
+    ]
+  },
+  {
+    "id": "ALB-02",
+    "title": "Gram Sabha",
+    "category": "Gram Sabha",
+    "date": "2026-08-15",
+    "coverUrl": "/images/gram-sabha.jpg",
+    "description": "Citizens participating in open Gram Sabha deliberations on village budget, water works, and PMAY-G beneficiary verification.",
+    "photos": [
+      {
+        "id": "PHT-201",
+        "title": "August 2026 Gram Sabha Proceedings",
+        "caption": "Gram Sevak reading out the annual financial expenditure and GPDP work progress before 184 citizens.",
+        "date": "15 Aug 2026",
+        "url": "/images/gram-sabha.jpg",
+        "ward": "All Wards"
+      },
+      {
+        "id": "PHT-202",
+        "title": "Panchayat Office Notice Board Review",
+        "caption": "Published beneficiary lists and audit statements displayed at the Panchayat entrance.",
+        "date": "15 Aug 2026",
+        "url": "/images/gram-panchayat-office.jpg",
+        "ward": "Ward 2"
+      }
+    ]
+  },
+  {
+    "id": "ALB-03",
+    "title": "Village Cleanliness Drive",
+    "category": "Sanitation",
+    "date": "2026-09-18",
+    "coverUrl": "/images/village-cleanliness.jpg",
+    "description": "Weekly Shramdaan and Swachh Bharat Mission Grameen cleanliness drive across village roads and public squares.",
+    "photos": [
+      {
+        "id": "PHT-301",
+        "title": "Swachhata Hi Seva Shramdaan",
+        "caption": "Youth volunteers and Panchayat staff cleaning and beautifying the main village road.",
+        "date": "18 Sep 2026",
+        "url": "/images/village-cleanliness.jpg",
+        "ward": "Ward 1"
+      }
+    ]
+  },
+  {
+    "id": "ALB-04",
+    "title": "Tree Plantation",
+    "category": "Environment",
+    "date": "2026-07-12",
+    "coverUrl": "/images/tree-plantation.jpg",
+    "description": "Monsoon Vruksharopan Abhiyan planting 600 native Neem, Peepal, and Banyan saplings along Ward 6 approach roads.",
+    "photos": [
+      {
+        "id": "PHT-401",
+        "title": "Ward 6 Roadside Sapling Plantation",
+        "caption": "Villagers planting native shade trees with protective guards under Green Maharashtra Drive.",
+        "date": "12 Jul 2026",
+        "url": "/images/tree-plantation.jpg",
+        "ward": "Ward 6"
+      }
+    ]
+  },
+  {
+    "id": "ALB-05",
+    "title": "Road Development",
+    "category": "Development Works",
+    "date": "2026-08-08",
+    "coverUrl": "/images/road-development.jpg",
+    "description": "Concrete internal road construction and drainage upgrade works under 15th Finance Commission grants.",
+    "photos": [
+      {
+        "id": "PHT-501",
+        "title": "CC Road Construction – Ward 2",
+        "caption": "Newly laid M-30 grade concrete road improving all-weather connectivity for Ward 2 households.",
+        "date": "08 Aug 2026",
+        "url": "/images/road-development.jpg",
+        "ward": "Ward 2"
+      },
+      {
+        "id": "PHT-502",
+        "title": "Completed Internal Village Lane",
+        "caption": "Clean concrete road with solar street lighting in residential lane.",
+        "date": "20 Aug 2026",
+        "url": "/images/village-road.jpg",
+        "ward": "Ward 1"
+      }
+    ]
+  },
+  {
+    "id": "ALB-06",
+    "title": "Water Supply Project",
+    "category": "Water Infrastructure",
+    "date": "2026-08-10",
+    "coverUrl": "/images/water-project.jpg",
+    "description": "Jal Jeevan Mission overhead storage tank, main distribution pipeline, and 100% household tap connectivity.",
+    "photos": [
+      {
+        "id": "PHT-601",
+        "title": "Overhead ESR Water Tank & Pipeline",
+        "caption": "Commissioned overhead drinking water tank serving Wards 3 and 5 under Jal Jeevan Mission.",
+        "date": "10 Aug 2026",
+        "url": "/images/water-project.jpg",
+        "ward": "Ward 3"
+      }
+    ]
+  },
+  {
+    "id": "ALB-07",
+    "title": "Village Events",
+    "category": "Community",
+    "date": "2026-05-01",
+    "coverUrl": "/images/login-village-hero.jpg",
+    "description": "Maharashtra Din celebration, women self-help group exhibition, and farmer awareness workshops at Lakhlgoan.",
+    "photos": [
+      {
+        "id": "PHT-701",
+        "title": "Lakhlgoan Gram Panchayat Karyalaya",
+        "caption": "Main administrative building of Gram Panchayat Lakhlgoan.",
+        "date": "01 May 2026",
+        "url": "/images/login-village-hero.jpg",
+        "ward": "Ward 2"
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "NOT-2026-01",
+    "title": "Gram Sabha Meeting – 2 October 2026",
+    "description": "All registered voters and residents of Lakhlgoan are hereby informed that the Mahatma Gandhi Jayanti Special Gram Sabha will be convened on 2 October 2026 at 11:00 AM at the Gram Panchayat Karyalaya courtyard. Key agenda items include GPDP mid-year review, social audit of water works, and PMAY-G beneficiary verification.",
+    "category": "Gram Sabha",
+    "publishDate": "2026-09-20",
+    "expiryDate": "2026-10-05",
+    "attachment": "/documents/gram-sabha-august-2026.pdf",
+    "status": "Active",
+    "important": true,
+    "issuedBy": "Sarpanch & Gram Sevak"
+  },
+  {
+    "id": "NOT-2026-02",
+    "title": "Property Tax Payment Reminder",
+    "description": "Households across Wards 1 to 6 are requested to clear their first-half House Tax (Ghar Patti) and Water Cess (Pani Patti) dues for Financial Year 2026–27 before 15 October 2026 at the Panchayat office counter to avail the 5% early-payment rebate.",
+    "category": "Tax",
+    "publishDate": "2026-09-15",
+    "expiryDate": "2026-10-31",
+    "attachment": "/documents/annual-budget-2026-27.pdf",
+    "status": "Active",
+    "important": true,
+    "issuedBy": "Revenue & Tax Clerk"
+  },
+  {
+    "id": "NOT-2026-03",
+    "title": "Water Supply Maintenance Notice",
+    "description": "Due to scheduled cleaning and chlorination of the main Overhead ESR Tank near Ward 3, morning tap water supply will remain suspended on Tuesday, 29 September 2026 between 8:00 AM and 2:00 PM. Citizens are requested to store adequate drinking water in advance.",
+    "category": "Water Supply",
+    "publishDate": "2026-09-24",
+    "expiryDate": "2026-09-30",
+    "attachment": "/documents/water-supply-resolution-2026.pdf",
+    "status": "Active",
+    "important": true,
+    "issuedBy": "Water Supply Committee"
+  },
+  {
+    "id": "NOT-2026-04",
+    "title": "Swachh Bharat Village Cleanliness Drive",
+    "description": "Under the 'Swachhata Hi Seva' fortnight campaign, a voluntary Shramdaan and plastic-free village drive will be conducted on Sunday at 7:30 AM starting from the Zilla Parishad Primary School ground. All youth mandals, SHG members, and villagers are invited to participate.",
+    "category": "General",
+    "publishDate": "2026-09-18",
+    "expiryDate": "2026-10-10",
+    "attachment": "/documents/sanitation-work-order.pdf",
+    "status": "Active",
+    "important": false,
+    "issuedBy": "Village Health & Sanitation Samiti"
+  },
+  {
+    "id": "NOT-2026-05",
+    "title": "PMAY-G Beneficiary Verification Camp",
+    "description": "A special document verification camp for Pradhan Mantri Awaas Yojana (Gramin) applicants is scheduled at the Gram Panchayat Hall. Listed applicants must bring original Aadhaar Card, 7/12 or 8A extract, and bank passbook copy.",
+    "category": "Government Scheme",
+    "publishDate": "2026-09-12",
+    "expiryDate": "2026-10-15",
+    "attachment": "/documents/pmay-beneficiary-list-2026.pdf",
+    "status": "Active",
+    "important": false,
+    "issuedBy": "Gram Sevak"
+  },
+  {
+    "id": "NOT-2026-06",
+    "title": "Quotation Notice for Solar High-Mast Lamp at Bazaar Peth",
+    "description": "Sealed item-rate quotations are invited from registered electrical contractors for supply, erection, and commissioning of 12-meter Solar High-Mast LED Lighting system at Lakhlgoan main chowk.",
+    "category": "Tender",
+    "publishDate": "2026-09-10",
+    "expiryDate": "2026-10-08",
+    "attachment": "/documents/streetlight-maintenance-bill.pdf",
+    "status": "Active",
+    "important": false,
+    "issuedBy": "Gram Panchayat Tender Cell"
+  },
+  {
+    "id": "NOT-2026-07",
+    "title": "Monsoon Vector-Borne Disease Prevention & Fogging Schedule",
+    "description": "Primary Health Sub-Centre Lakhlgoan and Gram Panchayat sanitation staff will carry out evening anti-larval spraying and fogging across all six wards this week. Keep water containers covered.",
+    "category": "Health",
+    "publishDate": "2026-09-05",
+    "expiryDate": "2026-10-02",
+    "attachment": "/documents/sanitation-work-order.pdf",
+    "status": "Active",
+    "important": false,
+    "issuedBy": "PHC Sub-Centre & Gram Panchayat"
+  },
+  {
+    "id": "NOT-2026-08",
+    "title": "Emergency Advisory: Desilting of Nalla Culvert Near Ward 6",
+    "description": "Heavy machinery work is underway at the Ward 6 agricultural approach culvert. Heavy tractor-trolleys are advised to use the alternate Hanuman Mandir bypass road for 3 days.",
+    "category": "Emergency",
+    "publishDate": "2026-09-22",
+    "expiryDate": "2026-09-29",
+    "attachment": "/documents/village-development-plan.pdf",
+    "status": "Active",
+    "important": true,
+    "issuedBy": "Gram Sevak"
+  },
+  {
+    "id": "NOT-2026-09",
+    "title": "Independence Day Flag Hoisting & Gram Sabha Notice",
+    "description": "Official invitation and schedule for 79th Independence Day flag hoisting ceremony at 8:00 AM followed by statutory Gram Sabha meeting.",
+    "category": "Gram Sabha",
+    "publishDate": "2026-08-10",
+    "expiryDate": "2026-08-16",
+    "attachment": "/documents/gram-sabha-august-2026.pdf",
+    "status": "Expired",
+    "important": false,
+    "issuedBy": "Sarpanch"
+  },
+  {
+    "id": "NOT-2026-10",
+    "title": "Draft Notice: Winter Rabi Crop Water Rotation Schedule",
+    "description": "Proposed schedule for community well and percolation tank maintenance ahead of the upcoming Rabi agricultural season.",
+    "category": "Water Supply",
+    "publishDate": "2026-09-26",
+    "expiryDate": "2026-11-15",
+    "attachment": "/documents/water-supply-resolution-2026.pdf",
+    "status": "Draft",
+    "important": false,
+    "issuedBy": "Gram Sevak"
+  }
+]

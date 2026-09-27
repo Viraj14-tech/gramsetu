@@ -1,0 +1,27 @@
+[
+  {
+    "id": "USR-ADMIN-01",
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "name": "Gram Sevak (Mr. Rahul Shinde)",
+    "designation": "Gram Sevak",
+    "panchayat": "Lakhlgoan Gram Panchayat",
+    "initials": "GS"
+  },
+  {
+    "id": "USR-MEM-01",
+    "username": "member",
+    "password": "member123",
+    "role": "member",
+    "name": "Ramesh Patil",
+    "designation": "Registered Villager • Ward 1",
+    "panchayat": "Lakhlgoan Gram Panchayat",
+    "initials": "RP",
+    "ward": "Ward 1",
+    "memberId": "LGP001",
+    "mobile": "98XXXXXX21",
+    "houseNo": "112",
+    "memberSince": "2024"
+  }
+]
