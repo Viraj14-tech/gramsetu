@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-import { PortalProvider } from './utils/PortalContext';
+import { PortalProvider, usePortal } from './utils/PortalContext';
 import { ProtectedRoute } from './components/ProtectedRoute';
 import { ToastContainer } from './components/ToastContainer';
 
@@ -34,6 +34,17 @@ import { MemberForms } from './pages/member/MemberForms';
 import { MemberGallery } from './pages/member/MemberGallery';
 import { MemberProfile } from './pages/member/MemberProfile';
 
+const RoleShortcutRedirect: React.FC<{ adminPath: string; memberPath: string }> = ({
+  adminPath,
+  memberPath,
+}) => {
+  const { currentUser } = usePortal();
+  if (!currentUser) {
+    return <Navigate to="/login" replace />;
+  }
+  return <Navigate to={currentUser.role === 'admin' ? adminPath : memberPath} replace />;
+};
+
 export default function App() {
   return (
     <PortalProvider>
@@ -42,6 +53,20 @@ export default function App() {
           {/* Root starts directly at /login */}
           <Route path="/" element={<Navigate to="/login" replace />} />
           <Route path="/login" element={<LoginPage />} />
+
+          {/* Top-level convenience redirects for direct navigation */}
+          <Route
+            path="/documents"
+            element={<RoleShortcutRedirect adminPath="/admin/documents" memberPath="/member/documents" />}
+          />
+          <Route
+            path="/notices"
+            element={<RoleShortcutRedirect adminPath="/admin/notices" memberPath="/member/notices" />}
+          />
+          <Route
+            path="/settings"
+            element={<RoleShortcutRedirect adminPath="/admin/settings" memberPath="/member/profile" />}
+          />
 
           {/* Admin Portal Routes */}
           <Route
